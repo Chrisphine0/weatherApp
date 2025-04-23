@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` file for the `weatherApp` repository by Chrisphine0.
-
----
-
 # WeatherApp
 
 A full-stack weather application that provides real-time weather information and forecasts. The application is built with a Laravel backend and a TypeScript-based frontend, offering users an intuitive interface to check weather conditions for various locations.
